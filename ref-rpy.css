@@ -1,0 +1,37 @@
+:root {
+    font-family: Consolas;
+    background-color: #150050;
+    color: white;
+}
+
+table, th, tr, td {
+    border: 1px solid #FFF;
+    font-size: 15px;
+    color: white;
+    /-webkit-text-stroke: 1px black
+}
+
+th, td {
+    padding: 6px;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+}
+
+p {
+    text-align: center;
+}
+
+.tdnick {
+    max-width = 20px;
+}
+
+.tdcmt {
+    min-width: 400px;
+}
+
+.tddl a {
+    color: magenta;
+}
