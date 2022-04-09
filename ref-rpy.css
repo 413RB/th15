@@ -2,6 +2,7 @@
     font-family: Consolas;
     background-color: #150050;
     color: white;
+    text-align: center;
 }
 
 table, th, tr, td {
@@ -13,15 +14,10 @@ table, th, tr, td {
 
 th, td {
     padding: 6px;
-    text-align: center;
 }
 
 a {
     color: yellow;
-}
-
-p {
-    text-align: center;
 }
 
 .tdnick {
@@ -34,4 +30,8 @@ p {
 
 .tddl a {
     color: magenta;
+}
+
+.tddl span {
+    display: none;
 }
